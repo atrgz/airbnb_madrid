@@ -45,3 +45,5 @@ There is a Jupyter Notebook available in the repository. The Notebook has markdo
 
 ## Licensing, Authors and Acknowledgments
 This project has no specific license, but some of the functions as well as the general structure of the project is inspired in Josh Bernhard's project about a survey in Stack Overflow. This project can be found [here](https://github.com/jjrunner/stackoverflow/tree/master)
+
+Details about this analysis can be seen in this [post](https://medium.com/@at_eshop/how-much-can-you-make-with-airbnb-in-madrid-ed3188ec6cc0).
