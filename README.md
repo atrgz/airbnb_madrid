@@ -7,7 +7,7 @@
 - [Licensing, Authors and Acknowledgments](#licensing-authors-and-acknowledgments)
 
 ## Installations
-This project is written in Python 3.11.5 usign the following  libraries:
+This project is written in Python 3.11.5 using the following  libraries:
 * numpy 1.24.3
 * pandas 2.0.3
 * matplotlib 3.7.2
