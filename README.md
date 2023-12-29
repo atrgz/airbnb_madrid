@@ -19,7 +19,7 @@ This work is the result of the project for the **Introduction to Data Science** 
 
 The CRISP-DM approach is followed to achieve results:
 ### 1. Business Understanding and Data Understanding:
-Following the recommendations of the module description, a dataset is chosen from AirBnB. In this particular case, the AirBnB scraped data for the city of Madrid with date 15<sup>th</sup> of December of 2023. The data can be found [here](http://insideairbnb.com/get-the-data/).
+Following the recommendations of the module description, a dataset of AirBnB data is chosen. In this particular case, the AirBnB scraped data for the city of Madrid with date 15<sup>th</sup> of December of 2023. The data can be found [here](http://insideairbnb.com/get-the-data/).
 
 After reviewing the data, the project aims to answer three questions:
 - How are the listings distributed?
